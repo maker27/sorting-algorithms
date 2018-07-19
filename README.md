@@ -1,1 +1,1 @@
-# sorting-algorithms
+Алгоритмы сортировки (javascript)
